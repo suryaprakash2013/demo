@@ -1,4 +1,4 @@
-
+{
   "products": [
     {
       "name": "Product 1",
@@ -25,3 +25,4 @@
       "image": "product4.jpg"
     }
   ]
+}
